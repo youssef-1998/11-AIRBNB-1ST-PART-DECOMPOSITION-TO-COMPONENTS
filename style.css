@@ -1,0 +1,77 @@
+.card{
+    border: transparent !important;
+}
+.card h1{
+    color: #ff5a60 ;
+}
+.form-control{
+    height: 60px !important;
+}
+.btn-coral{
+    background-color: #ff5a60 !important;
+    color: white !important;
+    justify-content: space-around !important;
+    height: 50px !important;
+}
+.br-cart{
+    border: solid 2px rgb(240, 236, 236) !important;
+    margin-left: 10px;
+    -webkit-box-shadow: 7px 9px 6px -8px rgba(0,0,0,0.44);
+    -moz-box-shadow: 7px 9px 6px -8px rgba(0,0,0,0.44);
+    box-shadow: 7px 9px 6px -8px rgba(0,0,0,0.44);
+
+}
+.card-group img{
+    height: 200px;
+    width: 260px;
+
+}
+.destination img{
+    width: 165px;
+    height: 235px;
+}
+.radius{
+
+ border-radius: 4px !important; 
+}
+.fa-star{
+   font-size: 10px;
+}
+.nb-favoris {
+    margin-left: 5px !important;
+}
+ .text-primary{
+    padding-bottom: 20px;
+}
+.grand-titre{
+    padding-bottom: 15px;
+    font-size: 32px !important;
+    line-height: 1.125em !important;
+    color: #484848 !important;
+    padding-top: 6px !important;
+    padding-bottom: 6px !important;
+    font-weight: 700 !important;
+}
+
+.titre-footer{
+    color: #484848 !important;
+    font-size: 15px !important;
+
+}
+/*******  logo >  ******/
+.logo-color{
+    color: gray;
+    
+}
+.btn-footer{
+    background: transparent !important;
+    color: gray !important;
+    border-radius: 0px !important;
+    width: 250px !important;
+    display: flex !important;
+    justify-content: flex-start !important;
+    
+}
+.logo-footer{
+    margin-right: 10px ;
+}
